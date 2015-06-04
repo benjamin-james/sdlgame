@@ -1,0 +1,2 @@
+* sdlgame
+** A simple 'game' made with SDL2

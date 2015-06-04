@@ -1,2 +1,0 @@
-# sdlgame
-An SDL game
